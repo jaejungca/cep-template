@@ -35,7 +35,6 @@ bibliography: references.bib
 csl: styles/american-marketing-association.csl
 ---
 
-
 # TITLE PAGE {#sec-title-page .unnumbered}
 
 ::: page-note
