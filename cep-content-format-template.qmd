@@ -12,7 +12,7 @@ format:
     number-sections: true
     number-depth: 3
     css: template-styles.css
-    embed-resources: false
+    embed-resources: true
     smooth-scroll: true
     #fontsize: 18px
     code-tools: true
