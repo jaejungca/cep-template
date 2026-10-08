@@ -8,11 +8,11 @@ format:
     toc: true
     toc-depth: 4
     toc-expand: 1
-    toc-location: right
+    toc-location: right-body
     number-sections: true
     number-depth: 3
     css: template-styles.css
-    embed-resources: true
+    embed-resources: false
     smooth-scroll: true
     #fontsize: 18px
     code-tools: true
@@ -34,6 +34,361 @@ format:
 bibliography: references.bib
 csl: styles/american-marketing-association.csl
 ---
+
+::: callout-tip
+# About This Page
+
+This page is part of the [MSDM Culminating Experience Project Guidelines](cep_guidelines.qmd). You may go to the page for the rest of the guideline.
+:::
+
+# INSTRUCTIONS ON MSDM CEP TEMPLATE {#sec-instructions-on-using-the-msdm-cep-template .unnumbered}
+
+::: {.callout-note .hl-yellow}
+## Which Chapters and Sections to Include in Your Written Report?
+
+-   This chapter provides detailed instructions on how to use the MSDM CEP template for your project report. It includes guidelines for the content and format of the report, as well as specific instructions for each chapter and section. Follow these instructions carefully to ensure that your report meets the requirements and effectively communicates your research process and findings.
+
+-   Obviously, you **do not include this chapter in your written report**. This chapter is only for your reference while you are writing the report.
+
+-   Usually, the chapters and sections that need to be included in the written report are numbered.
+
+    -   The exceptions are the front-end materials (title page, signature page, acknowledgments, abstract, and individual contributions), which should be included in the fianl report but should not be numbered.
+
+    -   All other unumbered sections in the template are for **instructional** purposes and **should not be included in the written report**. They are meant to guide you through the writing process and provide examples, but they are not part of the content that you will submit to your faculty, clients, or the CPP library for publication.
+:::
+
+## Overview {#sec-content-format-template-instructions-overview .unnumbered}
+
+-   Use this template for your project by using **Quarto** document or **Word** document. The template is structured to guide you through the process of creating a comprehensive written report for your culminating experience project. It includes sections for the title page, signature page, acknowledgments, abstract, individual contributions, table of contents, and the main chapters of the report.
+
+-   Use **one document** form throughout your research journey, across all three semesters.
+
+    -   When you share your work with your faculty and clients, you can convert Quarto document to Word or PDF file or HTML file.
+
+    -   When you submit your ***front end materials*** (title page, signature page, acknowledgments, abstract, and individual contributions) to the **CPP library for publication**, you can convert Quarto document to **PDF** file.
+
+## Content Guidelines {#sec-guidelines-for-content .unnumbered}
+
+### 1. Main Contents {#sec-main-contents .unnumbered}
+
+The content of the project report should be organized into five main chapters:
+
+-   Chapter 1: Introduction,
+-   Chapter 2: Background and Analytics Objectives,
+-   Chapter 3: Methods,
+-   Chapter 4: Analysis/Modeling and Results, and
+-   Chapter 5: Data-Informed Marketing Strategy and Conclusion.
+
+### 2. Five Chapter Contents and Structure {#sec-five-chapter-contents-structure .unnumbered}
+
+-   Each chapter should be structured with appropriate headings and subheadings to guide the reader through the report. Follow the contents and structure guidelines provided in the template for each chapter and section.
+
+    -   The contents and structure guidelines are designed to help you create a comprehensive and well-organized report that effectively communicates your research process and findings.
+
+    -   The contents and structure will vary based on the type of project you are conducting (Client Consulting vs. Basic/Applied Academic Research), so make sure to follow the guidelines that are relevant to your project type.
+
+        -   A **Client Consulting project type** takes an *applied research approach* where your research is intended to solve problems specific to a company or organization.
+
+        -   A **Basic/Applied Academic Research project type** is best when your goal is to advance knowledge in the literature and benefit an industry as a whole or the public by discovering something new, or when it is not possible to identify a client company to consult and obtain its information.
+
+    -   The two types of projects **are not too different**. In fact, they are the same in Chapters 1, 3, and 4, while there are significant differences in Chapter 2 and slight differences in Chapter 5.
+
+-   Since most projects are Client Consulting Projects, the project report is explained using a Client Consulting Project, and the differences between the two types will be noted where applicable under the appropriate chapter.
+
+-   You *do not need to compose the document until the end of the CEP journey* in the summer semester, but you can refer to the sample to get an idea of what the front end materials should look like.
+
+### 3. Front Matters {#sec-front-end-materials .unnumbered}
+
+Eearly in your project, do not worry about front matters except for Title Page, as they will not be required until toward the end of the project--the summer semester when you will conclude your project.
+
+::: {.callout-important title="Separate File Should Be Prepared"}
+The **Front Matters** (title page, signature page, acknowledgments, abstract, and individual contributions) should be submitted to the CPP library for publication at the end of the CEP journey in the **summer semester**.
+
+-   While front matters should be present in the full written report, a separate file containing only the front matters should be prepared and submitted for two two purposes below.
+
+    -   **Submit this short report for Two tasks** later during the summer
+
+        1.  Attach it to the [**Electronic Signature Request Form**](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhB6CZtt1yeN5YXCp4axyBuZIuwRYS7lCcy3wkOwDauKOl5EjZYHukBjlmDIRfs21vA*) that you fill out for Project Committee (Chair and Reader) in **Step 7** of [10-Steps Towards Completing Your Project/Thesis](https://www.cpp.edu/gradstudies/project-and-thesis/steps-for-completion.shtml).
+
+        2.  Submit it for [**Approved Project Abstract to Bronco Scholarworks**](https://cpp.libwizard.com/f/sub-thesis-proj) in **Step 10** of 10-Steps Towards Completing Your Project/Thesis
+
+-   **Instructions**: for the content of each of the front matters is available on each section, starting with the [Title Page](#sec-title-page).
+
+-   **Format**: Creating a front matters document with the specific requirement is not easy, so we created a template you can download and use at [*Front Matters Format Guideline*](#sec-front-end-materials-format).
+
+-   **Samples**:
+
+    -   [**MSDM Project Samples**](https://livecsupomona-my.sharepoint.com/:f:/g/personal/jmjung_cpp_edu/IgApadevAQNdRLAWF83UunQoAWULI8O_uU5BRYO_j3jENEk?e=9OTvHo): Here are some samples of front matters submitted to the libraries in the past by MSDM Students
+
+    -   [**Bronco ScholarWorks**](https://scholarworks.calstate.edu/catalog?f%5Bcampus_sim%5D%5B%5D=Pomona&f%5Bdepartment_sim%5D%5B%5D=Business+Administration): You can see all SGSB project abstracts in the past.
+
+    -   [**European Journal of Marketing**](https://www.emerald.com/ejm/article/54/9/2049/28214/Doing-good-when-times-are-bad-the-impact-of-CSR-on): This journal, as one of Emerald journals, use the same abstract style with section headings. It is worth while to review the samples to learn how to condense a paper at a highest level in a limited space (250 word limit).
+:::
+
+### 4. Complete Final MSDM CEP Written Report {#sec-complete-final-msdm-cep-written-report .unnumbered}
+
+-   A **complete final written report** composed of the front end materials, the five chapters and sections, references, and appendices should be submitted to the Office of the MSDM Program at the end of the CEP journey in the summer semester.
+
+## Formatting Guidelines {#sec-formatting-guidelines .unnumbered}
+
+### 1. General Formatting Guidelines {#sec-general-formatting-guidelines .unnumbered}
+
+1.  The project report must be **double-spaced** with 1-inch margins on all sides except for the front-end materials (title page, signature page, acknowledgments, abstract, and individual contributions), which requires different margin specifications — typically a 1.5-inch left margin.
+
+2.  Use **Times New Roman, 12-point font** for all **normal body text** in the written report.
+
+3.  All **normal paragraphs**, tables, figure notes, and references should use 12-point font, unless the template specifies otherwise.
+
+4.  Make sure the default font settings in Quarto or Word look good. Quarto and Word may apply different default styles depending on the output format, software version, or template.
+
+5.  The project is expected to be prepared using **paragraph writing**. The use of **bullet points** is possible when it makes sense but cannot take most of the discussion.
+
+6.  **Page length** expectations are provided for each chapter and section, including all tables and figures.
+
+7.  Clearly indicate which team member authored each section. Include the **writer’s name** next to the corresponding chapter or subsection title. If multiple students complete a section, add all names separated by a comma.
+
+8.  Although individual students will compose sections aligned with their own AO, the final report must read as a **cohesive narrative**. Ensure that the writing style is consistent and that the document flows as if authored by a single writer.
+
+9.  **Provide navigation pane for scanability and readability**. Without navigation pane, it will be very hard for readers to digest your written report due to the sheer volume. It is uncommon to see over 100 pages of final written report.
+
+    -   In **Quarto**, `toc-location: right-body` will ensure that you have your toc in both top and right slide. The right side TOC will float and follow you all the time.
+    -   In **Word**, navigation pane shows up on the left when you go to `view` and choose `Navigation Pane`. However, all headings and subheadings do not automatically show up unless you apply headings appropriately as explained at [content guideline for front matters](#sec-front-end-materials).
+
+### 2. Front Matters Document Formatting Guideline {#sec-front-end-materials-format .unnumbered}
+
+::: {.callout-tip title="Download the **template** and use the format that has been built in."}
+The best way to format *Front matters* is download the **template** and use the format that has been built in.
+
+-   A [**Template for front matters**](https://docs.google.com/document/d/1Pv5wn9QUTmBgrY2H_9R4-MrDewLz7qaZ/edit)
+
+-   The template has been formatted according to the university's requirements for library submission, which is hard to recreate from scratch.
+
+    -   1.5 inch margin on left and 1.0 inch margin on the top, right, and bottom of the page.
+
+    -   12 font size for all front matters, including titles.
+
+    -   There are word limits: 25 words for abstract and 75-100 words for each individual contribution statement.
+
+    -   Signature Page should look like the example in the [Signature Page](#sec-signature-page) without actual signature from the committee. You will collect the signature electronically later using Acrobat Adobe Docu process, by filling out a form and attaching the front matters document in PDF.
+
+-   Thus, the easiest way to create the front matters is to ***download the template and fill in the information***.
+
+For **contents and samples**, refer to the [content guideline of the Front Matters](#sec-front-end-materials).
+:::
+
+### 3. Reference Section Formatting Guideline {#sec-instruction-reference .unnumbered}
+
+-   Use double-spacing for full citations without any blank lines between references.
+
+-   Use reverse indentation (“first line” option in Word) with 0.5 inches indented in the second line and on to enhance readability.
+
+-   The full citations should be listed in ascending order of the last name of the first author.
+
+-   Be consistent with the full citations and in-text citations.
+
+-   **Reference Style:**
+
+    -   The references should follow the [American Marketing Association Reference Style](https://www.ama.org/american-marketing-association-journals-reference-style-examples/), which is a modified version of the [Chicago Author Date Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html). If AMA style formatting is not available in Zotero, you may use `Chicago Author Date style`.
+
+    -   To use AMA or Chicago Author Date style, you can do the following:
+
+    ::: callout-note
+    #### How to Configure Quarto for CSL (Citation Styling Language)
+
+    -   **Step 1**: Go to <https://www.zotero.org/styles>
+
+    -   **Step 2**: Search for "Chicago Author Date"
+
+    -   **Step 3**: When the result appears, do not left-click it. Instead, right-click on "Chicago Manual of Style 17th edition (author-date)"
+
+    -   **Step 4**: In the right-click menu, select:
+
+        -   "Save link as" on Chrome/Edge
+        -   "Save Link As" on Firefox
+
+    -   **Step 5**: In the Save dialog:
+
+        -   Change the filename to chicago-author-date.csl
+        -   Set Save as type to All Files
+        -   Navigate to your Quarto project folder
+        -   Click Save
+
+    -   In your Quarto yaml header, you can add the following:
+
+        ``` yaml
+        bibliography: references.bib # This code would be automatically created when you add a citation for the first time
+        csl: chicago-author-date.csl # You can use original file name without renaming it when you download it.
+        ```
+    :::
+
+-   You are encouraged to use **bibliography** software that works well with Quarto and Word, such as Zotero. Both **Quarto** and **Word** has bibliography management functions.
+
+    -   In Quarto-html document, references section will be added at the end of the document, but you can control the location by adding `refs` div under the references section.
+
+        ```         
+        ::: {#refs}
+        :::
+        ```
+
+### 4. In-Text Citations {#sec-in-text-citations .unnumbered}
+
+-   Providing full citations under reference section is not enough. Students must cite the articles where they cite in the main text as well.
+-   For a sample of in-text citation, refer to @sec-ao1-title-ao1
+
+### 5. Headings and Subheadings {#sec-headings-and-subheadings .unnumbered}
+
+#### Overview {#sec-headings-and-subheadings-overview .unnumbered}
+
+::: {.callout-note title="General Idea"}
+-   Use **Quarto heading syntax** or **Word’s built-in heading styles** consistently throughout the report. Students should not manually format each heading by changing font size, bolding, indentation, or alignment one by one. Instead, they should use the appropriate heading syntax or style:
+
+    -   Students using **Quarto** should use `#`, `##`, `###`, and `####`. Using proper heading styles allows the table of contents to be generated automatically.
+
+        -   The number of `#` symbols indicates the heading level. For example, `#` is for first-level headings, `##` is for second-level headings, `###` is for third-level headings, and `####` is for fourth-level headings.
+
+    -   Students using **Word** should use **Word’s built-in heading styles** under Home \> Styles. Using Word’s heading styles allows you to use automatic features for the table of contents.
+
+-   The exact font size of headings does not need to be manually adjusted by students as long as the required heading level is used consistently. The MSDM CEP template will control the final heading appearance.
+:::
+
+#### Principles and Examples {#sec-heading-principles-examples .unnumbered}
+
+Throughout this document, I applied all four heading levels according to the following principles. Below you will find the principles and examples.
+
+1.  **First-level headings**, written with one `#`, should be used only for chapter titles. Chapter headings should be centered, written in ALL CAPS, and placed at the top of a new page.
+
+::: {.callout-tip title="Example"}
+-   You type: `# CHAPTER 1: INTRODUCTION` in Quarto. If you use `Word`, you can apply Heading 1 by selecting `Heading 1` from menu.
+
+    -   If font size doesn't adjust automatically, you may manually modify font size to about 26-28.
+
+-   It should be shown like this:
+
+    ::: {style="text-align: center; font-size: 2.25rem; font-weight: 600;"}
+    1 CHAPTER 1: INTRODUCTION
+    :::
+:::
+
+2.  **Second-level headings**, written with two `##` symbols, should be used for major sections within a chapter. They should be bold, left-aligned, and written in title case.
+
+::: {.callout-tip title="Example"}
+-   You type: `## Background of the Project` in Quarto. If you use Word, you can apply Heading 2 by selecting `Heading 2` from menu.
+
+    -   If font size doesn't adjust automatically, you may manually modify font size to about 22-24.
+
+-   It should be shown like this:
+
+    ::: {style="font-size: 2rem; font-weight: 600;"}
+    1.1 Background of the Project
+    :::
+:::
+
+3.  **Third-level headings**, written with three `###` symbols, should be used for subsections within a major section. They should be bold italic, left-aligned, and written in title case.
+
+::: {.callout-tip title="Example"}
+-   You type: `### Company Overview` in Quarto. If you use Word, you can apply Heading 3 by selecting `Heading 3` from menu.
+
+    -   If font size doesn't adjust automatically, you may manually modify font size to about 18-20.
+
+-   It should be shown like this:
+
+    ::: {style="font-size: 1.75rem; font-weight: 600; font-style: italic;"}
+    2.1.1 Company Overview
+    :::
+:::
+
+4.  **Fourth-level headings**, written with four `####` symbols, should be used only when additional detail is needed. They should be italic, left-aligned, and written in title case.
+
+::: {.callout-tip title="Example"}
+-   You type: `#### Current Digital Marketing Challenges` in Quarto. If you use Word, you can apply Heading 4 by selecting `Heading 4` from menu.
+
+    -   If font size doesn't adjust automatically, you may manually modify font size to about 14-16.
+
+-   It should be shown like this. Note that there is no subheading numbers applied since it is fourth level.:
+
+    ::: {style="font-size: 1.5rem; font-style: italic;"}
+    Current Digital Marketing Challenges
+    :::
+:::
+
+5.  **Avoid using more than four heading levels**. If a section requires more than four levels, consider reorganizing the content.
+
+6.  **Do not skip heading levels**. For example, do not move from a first-level heading directly to a third-level heading.
+
+7.  **Begin the text of each section on a new line below the heading**. Do not place the paragraph text on the same line as the heading.
+
+8.  **Use short, descriptive headings**. Most headings should be between three and eight words.
+
+### 6. Section Numbering {#sec-section-numbering .unnumbered}
+
+-   Section numbering is recommended for the main chapters of the written report because it helps readers navigate the document and allows faculty, clients, and students to refer to specific sections easily.
+
+-   Numbering should be used for first-, second-, and third-level headings only. **Fourth-level headings** should be used sparingly and generally **do not** need to be numbered.
+
+-   Front-end materials and instructional template sections, such as the title page, signature page, acknowledgments, abstract, table of contents, and template instructions, should not be numbered.
+
+-   In Quarto, do not add `.unnumbered` to headings that should be numbered. A heading marked with `.unnumbered` will remain unnumbered even when section numbering is turned on in the YAML header.
+
+### 7. Tables and Figures {#sec-tables-and-figures .unnumbered}
+
+-   All tables and figures should be numbered and titled. The title should be placed above the table or figure and should be in bold font. Example:
+
+    `Table 1. Summary of Customer Segments`
+
+    `Figure 1. Perceptual Map of Competitors`
+
+-   All tables and figures should be referred to in the text by their number. For example, "As shown in Table 1, there are three main customer segments."
+
+-   All tables and figures should be placed as close as possible to the first mention in the text. If a table or figure cannot fit on the same page as the first mention, it should be placed on the next page.
+
+-   All tables and figures should be formatted consistently throughout the report. Use the same font, size, and style for all table titles, figure titles, and table/figure notes.
+
+-   If a table or figure is too large to fit on one page, it should be split into multiple tables or figures. Each part should be numbered and titled accordingly (e.g., Table 1a, Table 1b, etc.).
+
+-   If a table or figure is adapted from another source, the source should be cited in the table or figure note. Example:
+
+    `Note. Adapted from Smith (2020).`
+
+-   Do not start a paragraph or section with a table or figure. **Always start with text and then refer to the table or figure.**
+
+## Summary Table {#sec-summary-table .unnumbered}
+
+> The table below summarizes the key formatting requirements. Students should use it as a final checklist before submitting the written report.
+
+| Area | Requirement | Student Action |
+|---------------------|---------------------------|------------------------|
+| **Document format** | Use one document form throughout the CEP journey across all three semesters. | Use the official MSDM CEP template in Quarto or Word. Convert to Word, PDF, or HTML when needed. |
+| **Final report organization** | The written report should include front-end materials, five main chapters, references, and appendices as needed. | Follow the chapter and section structure provided in the template. |
+| **Main chapters** | The report should be organized into five chapters: Chapter 1: Introduction; Chapter 2: Background and Analytics Objectives; Chapter 3: Methods; Chapter 4: Analysis/Modeling and Results; and Chapter 5: Data-Informed Marketing Strategy and Conclusion. | Use the chapter structure provided in the template and follow the relevant guidelines for the project type. |
+| **Spacing and margins** | The main report should be double-spaced with 1-inch margins on all sides. Front-end materials may require different formatting, such as a 1.5-inch left margin. | Use the template settings and avoid manually changing margins unless instructed. |
+| **Body text font** | Normal body text should use Times New Roman, 12-point font. | Use the normal paragraph style in the template. |
+| **Tables, figure notes, and references font** | Tables, figure notes, and references should generally use 12-point font unless the template specifies otherwise. | Apply consistent font size and formatting across all tables, figures, notes, and references. |
+| **Heading styles** | Use Quarto heading syntax or Word’s built-in heading styles consistently. | In Quarto, use `#`, `##`, `###`, and `####`. In Word, use Heading 1, Heading 2, Heading 3, and Heading 4 under Home \> Styles. |
+| **Heading font size** | Students do not need to manually adjust heading font sizes. The MSDM CEP template controls the final heading appearance. | Use the correct heading level instead of manually changing font size, bolding, indentation, or alignment. |
+| **H1 / first-level heading** | Used only for chapter titles. Chapter headings should be bold, centered, written in ALL CAPS, and placed at the top of a new page. Use automatic heading level available in Quarto or Word file. | Example in Quarto: `# CHAPTER 1: INTRODUCTION` |
+| **H2 / second-level heading** | Used for major sections within a chapter. H2 headings should be bold, left-aligned, and written in title case. Use automatic heading level available in Quarto or Word file. | Example in Quarto: `## Background of the Project` |
+| **H3 / third-level heading** | Used for subsections within a major section. H3 headings should be bold italic, left-aligned, and written in title case. Use automatic heading level available in Quarto or Word file. | Example in Quarto: `###  Company Overview` |
+| **H4 / fourth-level heading** | Used only when additional detail is needed. H4 headings should be italic, left-aligned, and written in title case. Use automatic heading level available in Quarto or Word file. | Example in Quarto: `#### Current Digital Marketing Challenges` |
+| **Heading hierarchy** | Do not skip heading levels and avoid using more than four heading levels. | Do not move from H1 directly to H3. Reorganize the section if more than four heading levels are needed. |
+| **Heading text placement** | Begin the text of each section on a new line below the heading. Do not use run-in headings. | Write the heading on its own line, then begin the paragraph below it. |
+| **Heading wording** | Headings should be short, descriptive, and consistent. Most headings should be three to eight words. | Use clear section labels rather than full-sentence headings. |
+| **Reference spacing** | Full citations in the reference section should be double-spaced with no blank lines between references. | Use consistent spacing for all references. |
+| **Reference indentation** | References should use hanging indentation, with the second line and following lines indented 0.5 inches. | Use the hanging indent setting in Word or the reference formatting provided in the template. |
+| **Reference order** | Full citations should be listed in ascending alphabetical order by the last name of the first author. | Check the order before final submission. |
+| **Reference style** | References should follow the American Marketing Association Reference Style, a modified version of Chicago Author-Date Style. DOIs are not required. | Use the required citation style consistently for both in-text citations and full citations. |
+| **Tables and figures** | All tables and figures should be numbered and titled. Titles should be placed above the table or figure and written in bold font. | Use labels such as `Table 1. Summary of Customer Segments` and `Figure 1. Perceptual Map of Competitors`. |
+| **Mentioning tables and figures** | Each table and figure must be referred to in the text by number. | Write a sentence introducing the table or figure before it appears. |
+| **Placement of tables and figures** | Tables and figures should be placed as close as possible to their first mention in the text. | Do not place a table or figure before explaining why it is included. |
+| **Large tables and figures** | Large tables and figures should be split into multiple parts if they do not fit on one page. | Label parts clearly, such as Table 1a and Table 1b. |
+| **Sources for tables and figures** | If a table or figure is adapted from another source, cite the source in a note. | Example: `Note. Adapted from Smith (2020).` |
+| **Paragraph writing** | The report should primarily use paragraph writing. Bullet points may be used when appropriate but should not make up most of the discussion. | Use paragraphs to explain, interpret, and connect ideas. |
+| **Page length** | Page length expectations are provided for each chapter and section, including tables and figures. | Follow the page length expectations listed in the template. |
+| **Authorship** | Clearly indicate which team member authored each section. | Add the writer’s name next to the corresponding chapter or subsection title. |
+| **Cohesive writing style** | Although sections may be written by different students, the final report should read as one cohesive document. | Edit the final report for consistency in tone, terminology, formatting, and flow. |
+
+<br>
+
+{{< pagebreak >}}
 
 # TITLE PAGE {#sec-title-page .unnumbered}
 
@@ -226,15 +581,48 @@ This is where students may acknowledge important people in their life that impac
 ::: {.callout-note .hl-yellow}
 -   Sometimes you will be presented with project objectives (PO), instead of analytics objectives (AO), in which case, you must translate the project objectives (marketing or business objectives) into analytics objectives.
 
+-   **PO's are the business objectives** that the client wants to achieve, while AO's are the analytics objectives that you will use to analyze data and provide insights to help achieve the PO's.
+
+    -   **PO's** will drive **Concrete Digital Marketing Plan** and **Implementation in Ch5**
+
+    -   **AO's** will drive your activities and analysis throughout the project on **Ch1**, literature review part of **Ch2, Ch3, Ch4**, and **Recommendation section** of Ch5.
+
+    -   If you do not have PO's, you will need to create them based on the business problem(s) and research questions or hypotheses or AO's that will drive the research project.
+
+-   **AO's are derived from the PO's** and should be specific, measurable, and aligned with the research questions or hypotheses that will drive the research project.
+
 -   For more information on [how to tell difference between AO's and PO's](capstone_project.qmd#project-objectives-po-vs.-analytics-objectives-ao-1) and [how to convert PO’s to AO’s](capstone_project.qmd#how-to-convert-po-to-ao), follow the links.
 :::
+
+-   **PO1**: \[Insert Project Objective 1 here\]
+-   **PO2**: \[Insert Project Objective 2 here\]
+-   **PO3**: \[Insert Project Objective 3 here\]
+-   **PO4**: \[Insert Project Objective 4 here\]
 
 ## Analytics Objectives
 
 ::: {.callout-note .hl-yellow}
--   Each team member must have at least one AO so that they can go through the entire culminating experience process along the AO. That way, each member will have rich experience of culminating expereince as if they work on a project alone although they work as a team. Each member should focus on one analytics objective (AO) that would adress corresponding project objective (PO) to help solve the business problem(s).
+-   Each team member must have at least one AO so that they can go through the entire culminating experience process along the AO.
 
--   In this section, state how the AO will address the problem(s) introduced earlier. In doing so, talk about which data you will need to use for the AO and what insights you would expect to find. Please note that the analytics objectives should be relevant to the data you can collect and analyze to inform the direction of digital marketing activities. In other words, AO’s must be directly tied to data.
+    -   **AO's will drive your activities and analysis** throughout the project on **Ch1**, literature review part of **Ch2, Ch3, Ch4**, and **Recommendation section** of Ch5.
+
+    -   However, **PO's** will drive **Concrete Digital Marketing Plan** and **Implementation in Ch5**.
+
+-   Each **AO** should be aligned with the corresponding PO to ensure that the team is working towards solving the business problem(s) effectively.
+
+    -   That way, each member will have rich experience of culminating experience as if they work on a project alone although they work as a team.
+
+    -   Each member should lead at least one analytics objective (AO) that would address corresponding project objective (PO) to help achieve the PO.
+
+    -   There can be more than one AO for a PO, but each AO should be unique and not overlap with other team members' AOs.
+
+-   In this section, state (1) how you will address the AO and (2) how the AO will help achieve the corresponding PO introduced earlier.
+
+    -   In doing so, talk about which variables (e.g., constructs, metrics) you will need to use for the AO and what insights you would expect to find.
+
+    -   State the source of data (e.g., GA4, secondary data, survey data, etc.) you will use to address the AO and how you will collect it.
+
+    -   Please note that the analytics objectives should be relevant to the data you can collect and analyze to inform the direction of digital marketing activities. In other words, AO’s must be directly tied to data.
 :::
 
 ::: callout-tip
@@ -248,6 +636,16 @@ This is where students may acknowledge important people in their life that impac
 :::
 
 ### AO1. Title of AO1 (Name of Student 1) {#sec-ao1-title-ao1}
+
+-   **PO1**: \[Insert Project Objective 1 here\]
+
+-   **AO1**: \[Insert Analytics Objective 1 here\]
+
+    -   **Data Source**: \[Insert data source here\]
+
+#### How to address AO1
+
+#### How AO1 will help achieve PO1
 
 ::: callout-note
 #### How to cite an article in-text
@@ -277,11 +675,51 @@ So the two work together, not in place of each other:
 
 ### AO2. Title of AO2 (Name of Student 2)
 
+-   **PO2**: \[Insert Project Objective 2 here\]
+
+-   **AO2**: \[Insert Analytics Objective 2 here\]
+
+    -   **Data Source**: \[Insert data source here\]
+
+#### How to address AO2
+
+#### How AO2 will help achieve PO2
+
 ### AO3. Title of AO3 (Name of Student 3)
+
+-   **PO3**: \[Insert Project Objective 3 here\]
+
+-   **AO3**: \[Insert Analytics Objective 3 here\]
+
+    -   **Data Source**: \[Insert data source here\]
+
+#### How to address AO3
+
+#### How AO3 will help achieve PO3
 
 ### AO4. Title of AO4 (Name of Student 4)
 
+-   **PO4**: \[Insert Project Objective 4 here\]
+
+-   **AO4**: \[Insert Analytics Objective 4 here\]
+
+    -   **Data Source**: \[Insert data source here\]
+
+#### How to address AO4
+
+#### How AO4 will help achieve PO4
+
 ### AO5. Title of AO5 (Name of Student 5)
+
+-   **PO5**: \[Insert Project Objective 5 here\]
+
+-   **AO5**: \[Insert Analytics Objective 5 here\]
+
+    -   **Data Source**: \[Insert data source here\]
+
+#### How to address AO5
+
+#### How AO5 will help achieve PO5
 
 ## Significance of the Topic
 
@@ -465,32 +903,44 @@ So the two work together, not in place of each other:
 
 ## Investigation of Currently Available Research Framework/Model {#sec-investigation-of-currently-available-research-frameworkmodel}
 
-::: callout-note
+::: {.callout-note .hl-yellow}
+### Instructions for Literature Review
 *The main purpose of this section is to gain understanding of the existing research on the topic of your project and assess if you can avoid doing redundant research that can address your analytics objectives. If indeed, there is sufficient existing research that can answer your analytics objectives, why can't you just use the knowledge? Thus, this section is crucial for establishing a solid foundation for your research. To this end, you will be answering the four sections below by filling out the four sections. Make sure you understand what is required for each section.*
 
 1.  **Existence of Well-established Models** (2-3 pages per AO)
 
--   Identify well-established consumer behavior theory/models/frameworks or analytical approaches relevant to the AO.
+    -   Identify well-established consumer behavior theory/models/frameworks or analytical approaches relevant to the AO.
 
--   Describe how the theory/models support the AO conceptual development in the context of solving the problem.
+    -   Describe how the theory/models support the AO conceptual development in the context of solving the problem.
 
 2.  **Adequateness of Gathered Information** (a paragraph per AO)
 
--   Assess whether the gathered information (above) is sufficient in addressing the AO and thus solving the business problem. Consider aspects such as application, accuracy, consistency, potential bias, and whether the information aligns with your research needs.
+    -   Assess whether the gathered information (above) is sufficient in addressing the AO and thus solving the business problem. Consider aspects such as application, accuracy, consistency, potential bias, and whether the information aligns with your research needs.
 
--   If the gathered information is sufficient, explain how you will use the information to accomplish the AO and solve the business problem. If not, explain why the information is not sufficient and what you will do to fill the gap (e.g., additional analysis, primary research, etc.).
+    -   If the gathered information is sufficient, explain how you will use the information to accomplish the AO and solve the business problem. If not, explain why the information is not sufficient and what you will do to fill the gap (e.g., additional analysis, primary research, etc.).
 
 3.  **Need for Additional Analysis** (a paragraph per AO)
 
--   Identify if there is a need for additional analysis to address the AO in the context of the business problem. Consider if there is a need for alternative modeling techniques, methods, or data sources (e.g., primary research) to fill gaps or enhance accuracy, and how they would improve the AO.
+    -   Identify if there is a need for additional analysis to address the AO in the context of the business problem. Consider if there is a need for alternative modeling techniques, methods, or data sources (e.g., primary research) to fill gaps or enhance accuracy, and how they would improve the AO.
 
--   If you had concluded in Step 2 that the gathered information **is sufficient**, you may not need to do additional analysis. In that case, explain why the information is sufficient and how you will use it to accomplish the AO and solve the business problem.
+    -   If you had concluded in Step 2 that the gathered information **is sufficient**, you may not need to do additional analysis. In that case, explain why the information is sufficient and how you will use it to accomplish the AO and solve the business problem.
 
--   If you had concluded in Step 2 that the gathered information is **not sufficient**, you will likely need to do additional analysis. In that case, explain what additional analysis you will do and how it will help accomplish the AO and solve the business problem.
+    -   If you had concluded in Step 2 that the gathered information is **not sufficient**, you will likely need to do additional analysis. In that case, explain what additional analysis you will do and how it will help accomplish the AO and solve the business problem.
+
+        -   In this case, articulate specific **research questions** or **hypotheses** that will guide your additional analysis. You may also need to identify the data sources, analytical techniques, and models you will use to address the AO.
+
+        -   The research questions or hypotheses should be specific, measurable, and aligned with the AO. They should also be feasible to answer given the available data and resources. This means that you may need at least one research question or hypothesis for each AO, and they should be clearly stated in a way that allows for empirical testing or analysis. Some examples of research questions or hypotheses are:
+
+            -   **Research Question**: "How does the frequency of social media engagement affect brand loyalty among millennials?"
+            -   **Hypothesis**: "Higher levels of social media engagement are positively associated with increased brand loyalty among millennials."
+
+        -   If your data source is primary data, you will be asked to use **research questions** or **hypotheses** to guide your **questionnaire development** for survey data collection in Chapter 3.
+
+        -   If your data source is secondary data, the research questions or hypotheses will still be useful in guiding your plan for data collection and **analytics method section** of Chapter 3 and **analysis/modeling section** of Chapter 4.
 
 4.  **Assessment and Affirmation of Analytics Objectives** (no more than 1 page per AO)
 
--   In this section, you will evaluate your original AO specified in Chapter 1 in light of the information you have gathered and analyzed in the previous sections. You will specify how the AO aims to address the identified business problem(s). You will identify the analytical techniques, models or tools you plan to use. You will explain how these techniques will help accomplish the AO and why they are appropriate.
+    -   In this section, you will evaluate your original AO specified in Chapter 1 in light of the information you have gathered and analyzed in the previous sections. You will specify how the AO aims to address the identified business problem(s). You will identify the analytical techniques, models or tools you plan to use. You will explain how these techniques will help accomplish the AO and why they are appropriate.
 :::
 
 ::: callout-tip
@@ -507,51 +957,81 @@ So the two work together, not in place of each other:
 
 *See the callout-note section above for instructions on this section. For each AO, provide the entire AO exactly as you specified in Chapter 1 so that readers do not have to refer back to the previous chapter.*
 
+**AO1**: \[Insert Analytics Objective 1 here\]
+
 #### Existence of Well-established Models (2-3 pages per AO)
 
 #### Adequateness of Gathered Information (a paragraph per AO)
 
 #### Need for Additional Analysis (a paragraph per AO)
+
+**RQ1-1**: \[Insert Research Question 1 here\]
+
+**RQ1-2**: \[Insert Research Question 2 here\]
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
 ### AO2. Title of AO2 Right Here (Name of Author Here)
 
+**AO2**: \[Insert Analytics Objective 2 here\]
+
 #### Existence of Well-established Models (2-3 pages per AO)
 
 #### Adequateness of Gathered Information (a paragraph per AO)
 
 #### Need for Additional Analysis (a paragraph per AO)
+
+**RQ2-1**: \[Insert Research Question 1 here\]
+
+**RQ2-2**: \[Insert Research Question 2 here\]
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
 ### AO3. Title of AO3 Right Here (Name of Author Here)
 
+**AO3**: \[Insert Analytics Objective 3 here\]
+
 #### Existence of Well-established Models (2-3 pages per AO)
 
 #### Adequateness of Gathered Information (a paragraph per AO)
 
 #### Need for Additional Analysis (a paragraph per AO)
+
+**RQ3-1**: \[Insert Research Question 1 here\]
+
+**RQ3-2**: \[Insert Research Question 2 here\]
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
 ### AO4. Title of AO4 Right Here (Name of Author Here)
 
+**AO4**: \[Insert Analytics Objective 4 here\]
+
 #### Existence of Well-established Models (2-3 pages per AO)
 
 #### Adequateness of Gathered Information (a paragraph per AO)
 
 #### Need for Additional Analysis (a paragraph per AO)
+
+**RQ4-1**: \[Insert Research Question 1 here\]
+
+**RQ4-2**: \[Insert Research Question 2 here\]
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
 ### AO5. Title of AO5 Right Here (Name of Author Here)
 
+**AO5**: \[Insert Analytics Objective 5 here\]
+
 #### Existence of Well-established Models (2-3 pages per AO)
 
 #### Adequateness of Gathered Information (a paragraph per AO)
 
 #### Need for Additional Analysis (a paragraph per AO)
+
+**RQ5-1**: \[Insert Research Question 1 here\]
+
+**RQ5-2**: \[Insert Research Question 2 here\]
 
 #### Assessment and Affirmation of Analytics Objectives (no more than 1 page per AO)
 
@@ -676,7 +1156,7 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 *This chapter should provide a detailed description of the methods used to accomplish the analytics objectives. The methods should be described in sufficient detail to allow for replication by other researchers. The methods should be appropriate for the analytics objectives and should be justified based on the literature review and theoretical development presented in Chapter 2.*
 
--   For projects that need **primary data collection**,\* ***an instrument should be prepared*** \*and submitted as part of Chapter 3.
+-   For projects that need **primary data collection**, a **survey instrument** should be prepared and submitted as part of Chapter 3.
 
 -   For projects that use **secondary data**, the data source should be described in detail, including how the data was obtained and any limitations of the data.
 
@@ -685,7 +1165,7 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 -   For more information about data collection methods, data sources, and instruments, refer to the [Data Collection for the Above AO](capstone_project.qmd#data-collection) section of the main capstone project page.
 :::
 
-## Data and Sampling
+## Survey Data
 
 ### Population
 
@@ -693,27 +1173,9 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 ### Sampling Method
 
-## Data Wrangling (Import, Cleaning, Transformation)
-
 ### Data Collection
 
-### Data Wrangling
-
-#### Import
-
-#### Tidying
-
-#### Joining the Data
-
-### Understanding the Data
-
-#### Transform
-
-#### Visualize
-
-### Programming
-
-## Sample Characteristics
+### Sample Characteristics
 
 #### Age
 
@@ -731,43 +1193,43 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
 
 #### Product Usage Variables.
 
-## Measures
+### Measures
 
 ::: callout-note
 *Define the constructs in your analysis and describe how each construct will be operationalized (one item vs. multi-item). Explain what type of scale will be used (nominal, ordinal, interval, ratio), source, etc. Provide this information for each construct categorized under the following headings (IV, DV, Control). Each construct name will be another subheading. See journal articles for an idea.*
 :::
 
-### Independent Variables. (if applicable)
+#### Independent Variables. (if applicable)
 
-#### Variable Name 1
+-   Variable Name 1
 
-#### Variable Name 2
+-   Variable Name 2
 
-#### Variable Name 3
+-   Variable Name 3
 
-#### Variable Name 4
+-   Variable Name 4
 
-### Dependent Variables (if applicable)
+#### Dependent Variables (if applicable)
 
-#### Variable Name 5
+-   Variable Name 5
 
-#### Variable Name 6
+-   Variable Name 6
 
-#### Variable Name 7
+-   Variable Name 7
 
-#### Variable Name 8
+-   Variable Name 8
 
-### Control Variables (if applicable)
+#### Control Variables (if applicable)
 
-#### Variable Name 9
+-   Variable Name 9
 
-#### Variable Name 10
+-   Variable Name 10
 
-#### Variable Name 11
+-   Variable Name 11
 
-#### Variable Name 12
+-   Variable Name 12
 
-## Analytics Methods to Employ
+### Analytics Methods to Employ
 
 *(1-2 pages per AO)*
 
@@ -789,45 +1251,177 @@ If you are completing a Basic/Applied Academic Research Project type, you do not
     ![](images/slo-3.png)
 :::
 
-### AO1. Title of AO1 Here (Name of Author Here)
+#### AO1. Title of AO1 Here (Name of Author Here)
 
-#### Method Used
+-   Method Used
 
-#### Justification for the Method
+-   Justification for the Method
 
-#### Variables
+-   Variables
 
-### AO2. Title of AO2 Here (Name of Author Here)
+#### AO2. Title of AO2 Here (Name of Author Here)
 
-#### Method Used
+-   Method Used
 
-#### Justification for the Method
+-   Justification for the Method
 
-#### Variables
+-   Variables
 
-### AO3. Title of AO3 Here (Name of Author Here)
+#### AO3. Title of AO3 Here (Name of Author Here)
 
-#### Method Used
+-   Method Used
 
-#### Justification for the Method
+-   Justification for the Method
 
-#### Variables
+-   Variables
 
-### AO4. Title of AO4 Here (Name of Author Here)
+#### AO4. Title of AO4 Here (Name of Author Here)
 
-#### Method Used
+-   Method Used
 
-#### Justification for the Method
+-   Justification for the Method
 
-#### Variables
+-   Variables
 
-### AO5. Title of AO5 Here (Name of Author Here)
+#### AO5. Title of AO5 Here (Name of Author Here)
 
-#### Method Used
+-   Method Used
 
-#### Justification for the Method
+-   Justification for the Method
 
-#### Variables
+-   Variables
+
+## Secondary Data
+
+### Data Source
+
+### Population
+
+### Sampling Frame
+
+### Sampling Method
+
+### Data Wrangling
+
+#### Import
+
+#### Tidying
+
+#### Joining the Data
+
+### Understanding the Data
+
+#### Transform
+
+#### Visualize
+
+### Programming
+
+### Sample Characteristics
+
+#### Relevant Demographic Variables
+
+#### Relevant Behavioral Variables
+
+#### Product Usage Variables
+
+### Measures
+
+::: callout-note
+*Define the constructs in your analysis and describe how each construct will be operationalized (one item vs. multi-item). Explain what type of scale will be used (nominal, ordinal, interval, ratio), source, etc. Provide this information for each construct categorized under the following headings (IV, DV, Control). Each construct name will be another subheading. See journal articles for an idea.*
+:::
+
+#### Independent Variables. (if applicable)
+
+-   Variable Name 1
+
+-   Variable Name 2
+
+-   Variable Name 3
+
+-   Variable Name 4
+
+#### Dependent Variables (if applicable)
+
+-   Variable Name 5
+
+-   Variable Name 6
+
+-   Variable Name 7
+
+-   Variable Name 8
+
+#### Control Variables (if applicable)
+
+-   Variable Name 9
+
+-   Variable Name 10
+
+-   Variable Name 11
+
+-   Variable Name 12
+
+### Analytics Methods to Employ
+
+*(1-2 pages per AO)*
+
+::: callout-note
+-   *In this section, provide specific data science methods, variables/features to be used, and justifications for the methods and choice of the variables/features.*
+
+-   *Provide a sufficient amount of writing (one or two paragraphs) under each AO. The word sufficiency is relativistic, depending on the objective.*
+
+-   *Your description should be able to inform readers of what the method is, why you want to use it, and what variables/features you plan to use, such that readers do not have questions.*
+:::
+
+::: callout-tip
+### Assessment Rubric for SLO 3: Build a model appropriate for addressing the project objectives
+
+-   This section will in part be used to evaluate your performance on SLO 3, which is to build a model appropriate for addressing the project objectives. The specific model you build will depend on the analytics objectives you have set for your project and the data you have collected. Make sure to choose a model that is appropriate for your analytics objectives and to justify your choice of the model based on the literature review and theoretical development presented in Chapter 2.
+
+-   The following rubric will be used to evaluate the quality of your model. Make sure to review this rubric carefully and use it as a guide when writing your recommendations section.
+
+    ![](images/slo-3.png)
+:::
+
+#### AO1. Title of AO1 Here (Name of Author Here)
+
+-   Method Used
+
+-   Justification for the Method
+
+-   Variables
+
+#### AO2. Title of AO2 Here (Name of Author Here)
+
+-   Method Used
+
+-   Justification for the Method
+
+-   Variables
+
+#### AO3. Title of AO3 Here (Name of Author Here)
+
+-   Method Used
+
+-   Justification for the Method
+
+-   Variables
+
+#### AO4. Title of AO4 Here (Name of Author Here)
+
+-   Method Used
+
+-   Justification for the Method
+
+-   Variables
+
+#### AO5. Title of AO5 Here (Name of Author Here)
+
+-   Method Used
+
+-   Justification for the Method
+
+-   Variables
 
 ------------------------------------------------------------------------
 
@@ -937,7 +1531,9 @@ The following rubric will be used to evaluate the quality of your recommendation
 ![](images/slo-4a.png)
 :::
 
-## AO1. Title of AO1 Here (Name of Author Here)
+## Summary and Recommendations for Each AO
+
+### AO1. Title of AO1 Here (Name of Author Here)
 
 ::: callout-note
 The goal of this callout-note is to provide **guidance on how to structure the recommendations section for AO1.** The same structure can be applied to the rest of the AO sections (AO2, AO3, AO4, and AO5). However, you are not required to follow the same structure for all AO sections. You can use different structures for different AO sections as long as you cover the main components: summary of findings, specific recommendations, and justification for each recommendation. The key is to ensure that each section is well-organized, logically flows, and effectively communicates the relevant information to support the recommendations.
@@ -967,13 +1563,13 @@ The goal of this callout-note is to provide **guidance on how to structure the r
 
 *The same guidelines for Do A apply to Change C to D. The only difference is that the heading should start with an action verb that indicates change (e.g., “Change the target audience from millennials to Gen Z”).*
 
-### Summary of Findings from Data Analysis - AO1
+#### Summary of Findings from Data Analysis - AO1
 
-### Do A
+#### Do A
 
-### Implement B
+#### Implement B
 
-### Change C to D
+#### Change C to D
 
 <br>
 
@@ -983,47 +1579,47 @@ Using the same structure as AO1, provide recommendations for the rest of the AO 
 Also, the number of recommendations per AO may vary based on the amount of insights related to the AO. The key to remember is that you will want to ensure that each section is well-organized, logically flows, and effectively communicates the relevant information to support the recommendations.
 :::
 
-## AO2. Title of AO2 Here (Name of Author Here)
+### AO2. Title of AO2 Here (Name of Author Here)
 
-### Summary of Findings from Data Analysis – AO2
+#### Summary of Findings from Data Analysis – AO2
 
-### Do E
+#### Do E
 
-### Implement F
+#### Implement F
 
-### Change G to H
+#### Change G to H
 
-## AO3. Title of AO3 Here (Name of Author Here)
+### AO3. Title of AO3 Here (Name of Author Here)
 
-### Summary of Findings from Data Analysis – AO3
+#### Summary of Findings from Data Analysis – AO3
 
-### Do I
+#### Do I
 
-### Implement J
+#### Implement J
 
-### Change K to L
+#### Change K to L
 
-## AO4. Title of AO4 Here (Name of Author Here)
+### AO4. Title of AO4 Here (Name of Author Here)
 
-### Summary of Findings from Data Analysis – AO4
+#### Summary of Findings from Data Analysis – AO4
 
-### Do M
+#### Do M
 
-### Implement N
+#### Implement N
 
-### Change O to P
+#### Change O to P
 
-## AO5. Title of AO5 Here (Name of Author Here)
+### AO5. Title of AO5 Here (Name of Author Here)
 
-### Summary of Findings from Data Analysis – AO5
+#### Summary of Findings from Data Analysis – AO5
 
-### Do Q
+#### Do Q
 
-### Implement R
+#### Implement R
 
-### Change S to T
+#### Change S to T
 
-## **Concrete Digital Marketing Plan** {#sec-digital-marketing-implementation-plan}
+## Concrete Digital Marketing Plan {#sec-digital-marketing-implementation-plan}
 
 ### Instructions for the Digital Marketing Plan {#sec-instructions-for-the-digital-marketing-plan .unnumbered}
 
@@ -2210,7 +2806,7 @@ Suggested format:
 | Week 4 | Launch paid ads and monitor performance | Paid Media | Ad dashboard |
 | Week 5 | Analyze performance and optimize | Analytics | KPI report |
 
-## **Implementation of the Concrete Digital Marketing Plan** {#sec-implementation-digital-marketing-plan}
+## Implementation of the Concrete Digital Marketing Plan {#sec-implementation-digital-marketing-plan}
 
 ### Instructions for Implementation of the Digital Marketing Plan {#sec-implementation-instructions .unnumbered}
 
